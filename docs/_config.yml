@@ -1,0 +1,8 @@
+title: Stunspot's Guide to Gastronomic Engineering
+description: A practical canon for gastronomic engineering knowledge, reasoning, and AI/RAG use.
+show_downloads: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

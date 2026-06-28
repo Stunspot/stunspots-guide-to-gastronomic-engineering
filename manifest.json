@@ -1,0 +1,147 @@
+{
+  "canon": {
+    "title": "Stunspot's Guide to Gastronomic Engineering",
+    "slug": "gastronomic-engineering",
+    "version": "1.0",
+    "date_released": "2026-06-28"
+  },
+  "corpus": {
+    "generated_at": "2026-06-28T22:19:54+00:00",
+    "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
+    "reports": [
+      {
+        "code": "A",
+        "title": "Strategic Formulation Modules in Food Physics",
+        "subtitle": "",
+        "source_filename": "A. Strategic Formulation Modules in Food Physics.md",
+        "source_path": "A. Strategic Formulation Modules in Food Physics.md",
+        "filename": "a-strategic-formulation-modules-in-food-physics.md",
+        "path": "knowledge-packs/by-report/a-strategic-formulation-modules-in-food-physics.md",
+        "size_bytes": 30642
+      },
+      {
+        "code": "B",
+        "title": "A Closed-Loop Architecture for Culinary Formulation",
+        "subtitle": "",
+        "source_filename": "B. A Closed-Loop Architecture for Culinary Formulation.md",
+        "source_path": "B. A Closed-Loop Architecture for Culinary Formulation.md",
+        "filename": "b-a-closed-loop-architecture-for-culinary-formulation.md",
+        "path": "knowledge-packs/by-report/b-a-closed-loop-architecture-for-culinary-formulation.md",
+        "size_bytes": 62222
+      },
+      {
+        "code": "C",
+        "title": "Experimental Protocols and the Closed-Loop Architecture",
+        "subtitle": "",
+        "source_filename": "C. Experimental Protocols and the Closed-Loop Architecture.md",
+        "source_path": "C. Experimental Protocols and the Closed-Loop Architecture.md",
+        "filename": "c-experimental-protocols-and-the-closed-loop-architecture.md",
+        "path": "knowledge-packs/by-report/c-experimental-protocols-and-the-closed-loop-architecture.md",
+        "size_bytes": 45039
+      },
+      {
+        "code": "D",
+        "title": "Low-Carb and Glycemic Control",
+        "subtitle": "",
+        "source_filename": "D. Low-Carb and Glycemic Control.md",
+        "source_path": "D. Low-Carb and Glycemic Control.md",
+        "filename": "d-low-carb-and-glycemic-control.md",
+        "path": "knowledge-packs/by-report/d-low-carb-and-glycemic-control.md",
+        "size_bytes": 173238
+      },
+      {
+        "code": "E",
+        "title": "High-Protein Systems Constraint Layer",
+        "subtitle": "",
+        "source_filename": "E. High-Protein Systems Constraint Layer.md",
+        "source_path": "E. High-Protein Systems Constraint Layer.md",
+        "filename": "e-high-protein-systems-constraint-layer.md",
+        "path": "knowledge-packs/by-report/e-high-protein-systems-constraint-layer.md",
+        "size_bytes": 57726
+      },
+      {
+        "code": "F",
+        "title": "Caloric Density Control and Energy-Diluted Matrix Engineering",
+        "subtitle": "",
+        "source_filename": "F. Caloric Density Control and Energy-Diluted Matrix Engineering.md",
+        "source_path": "F. Caloric Density Control and Energy-Diluted Matrix Engineering.md",
+        "filename": "f-caloric-density-control-and-energy-diluted-matrix-engineering.md",
+        "path": "knowledge-packs/by-report/f-caloric-density-control-and-energy-diluted-matrix-engineering.md",
+        "size_bytes": 58233
+      },
+      {
+        "code": "G",
+        "title": "Whole-Food and Processing-Constrained Formulation",
+        "subtitle": "A Physics-First Constraint Layer",
+        "source_filename": "G. Whole-Food and Processing-Constrained Formulation - A Physics-First Constraint Layer.md",
+        "source_path": "G. Whole-Food and Processing-Constrained Formulation - A Physics-First Constraint Layer.md",
+        "filename": "g-whole-food-and-processing-constrained-formulation.md",
+        "path": "knowledge-packs/by-report/g-whole-food-and-processing-constrained-formulation.md",
+        "size_bytes": 62694
+      },
+      {
+        "code": "H",
+        "title": "Plant-Based Systems and Animal-Function Displacement",
+        "subtitle": "",
+        "source_filename": "H. Plant-Based Systems and Animal-Function Displacement.md",
+        "source_path": "H. Plant-Based Systems and Animal-Function Displacement.md",
+        "filename": "h-plant-based-systems-and-animal-function-displacement.md",
+        "path": "knowledge-packs/by-report/h-plant-based-systems-and-animal-function-displacement.md",
+        "size_bytes": 66941
+      },
+      {
+        "code": "I",
+        "title": "Allergen-Free Substitution Systems and Physics-First Constraint Architecture",
+        "subtitle": "",
+        "source_filename": "I. Allergen-Free Substitution Systems and Physics-First Constraint Architecture.md",
+        "source_path": "I. Allergen-Free Substitution Systems and Physics-First Constraint Architecture.md",
+        "filename": "i-allergen-free-substitution-systems-and-physics-first-constraint-architecture.md",
+        "path": "knowledge-packs/by-report/i-allergen-free-substitution-systems-and-physics-first-constraint-architecture.md",
+        "size_bytes": 64552
+      },
+      {
+        "code": "J",
+        "title": "Digestive and Microbiome Modulation Systems",
+        "subtitle": "",
+        "source_filename": "J. Digestive and Microbiome Modulation Systems.md",
+        "source_path": "J. Digestive and Microbiome Modulation Systems.md",
+        "filename": "j-digestive-and-microbiome-modulation-systems.md",
+        "path": "knowledge-packs/by-report/j-digestive-and-microbiome-modulation-systems.md",
+        "size_bytes": 67786
+      }
+    ],
+    "compiled_packs": [
+      {
+        "label": "Gastronomic Engineering - Vol. 1 A-C - Fundamentals and Worldview",
+        "source_filename": "[KNOWLEDGE] - Gastronomic Engineering - Vol. 1 A-C - Fundamentals and Worldview.md",
+        "source_path": "[KNOWLEDGE] - Gastronomic Engineering - Vol. 1 A-C - Fundamentals and Worldview.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-gastronomic-engineering-vol-1-a-c-fundamentals-and-worldview.md",
+        "size_bytes": 138394
+      },
+      {
+        "label": "Gastronomic Engineering - Vol. 2 D-F Constraint Layers for Specialty Dietary Needs 1 - Carbs, Proteins, and Caloric Density",
+        "source_filename": "[KNOWLEDGE] - Gastronomic Engineering - Vol. 2 D-F Constraint Layers for Specialty Dietary Needs 1 - Carbs, Proteins, and Caloric Density.md",
+        "source_path": "[KNOWLEDGE] - Gastronomic Engineering - Vol. 2 D-F Constraint Layers for Specialty Dietary Needs 1 - Carbs, Proteins, and Caloric Density.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-gastronomic-engineering-vol-2-d-f-constraint-layers-for-specialty-dietary-needs-1-carbs-proteins-and-caloric-density.md",
+        "size_bytes": 289748
+      },
+      {
+        "label": "Gastronomic Engineering - Vol. 3 G-J Constraint Layers for Specialty Dietary Needs 2 - Whole-Foods, Plant-Based, Allergen-Free, and Microbiomes",
+        "source_filename": "[KNOWLEDGE] - Gastronomic Engineering - Vol. 3 G-J Constraint Layers for Specialty Dietary Needs 2 - Whole-Foods, Plant-Based, Allergen-Free, and Microbiomes.md",
+        "source_path": "[KNOWLEDGE] - Gastronomic Engineering - Vol. 3 G-J Constraint Layers for Specialty Dietary Needs 2 - Whole-Foods, Plant-Based, Allergen-Free, and Microbiomes.md",
+        "dest_path": "knowledge-packs/compiled-packs/knowledge-gastronomic-engineering-vol-3-g-j-constraint-layers-for-specialty-dietary-needs-2-whole-foods-plant-based-allergen-free.md",
+        "size_bytes": 262850
+      }
+    ],
+    "omnibus": [
+      {
+        "label": "Gastronomic Engineering - Omnibus",
+        "source_filename": "[KNOWLEDGE] - Gastronomic Engineering - Omnibus.md",
+        "source_path": "[KNOWLEDGE] - Gastronomic Engineering - Omnibus.md",
+        "dest_path": "knowledge-packs/omnibus/knowledge-gastronomic-engineering-omnibus.md",
+        "size_bytes": 691236
+      }
+    ],
+    "unclassified": []
+  }
+}
