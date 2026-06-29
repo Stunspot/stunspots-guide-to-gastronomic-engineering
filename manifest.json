@@ -1,10 +1,61 @@
 {
   "canon": {
     "title": "Stunspot's Guide to Gastronomic Engineering",
+    "subtitle": "A practical canon for gastronomic engineering knowledge, reasoning, and AI/RAG use.",
     "slug": "gastronomic-engineering",
     "version": "1.0",
-    "date_released": "2026-06-28"
+    "date_released": "2026-06-28",
+    "description": "A Markdown-native, model-facing knowledge canon for deterministic food physics, closed-loop culinary formulation, experimental protocols, and dietary constraint engineering."
   },
+  "repository": {
+    "name": "stunspots-guide-to-gastronomic-engineering",
+    "owner": "Stunspot",
+    "url": "https://github.com/Stunspot/stunspots-guide-to-gastronomic-engineering",
+    "pages_url": "https://stunspot.github.io/stunspots-guide-to-gastronomic-engineering/",
+    "license": "CC BY-NC-SA 4.0",
+    "citation_file": "CITATION.cff",
+    "zenodo_json": null
+  },
+  "usage_policy": {
+    "primary_audience": "AI/RAG systems, long-context workspaces, model-facing project knowledge, and retrieval pipelines.",
+    "human_readability": "Human-readable but optimized for model ingestion, source traceability, stable terminology, and formulation reasoning.",
+    "medical_nutrition_warning": "This corpus is a formulation and knowledge-engineering substrate, not medical, nutrition, or allergen-safety advice."
+  },
+  "directory_policy": {
+    "docs": "Navigation, GitHub Pages metadata, and usage guidance only.",
+    "knowledge-packs/by-report": "Canonical individual source reports.",
+    "knowledge-packs/compiled-packs": "Grouped upload packs for most AI/RAG workflows.",
+    "knowledge-packs/omnibus": "Whole-corpus bundle for single-file import, archive, or strong long-context systems.",
+    "docs/reports": "Do not create or reference this directory."
+  },
+  "public_docs": [
+    {
+      "label": "Docs landing page",
+      "path": "docs/index.md"
+    },
+    {
+      "label": "Canon map",
+      "path": "docs/canon-map.md"
+    },
+    {
+      "label": "How to use this canon",
+      "path": "docs/how-to-use-this-canon.md"
+    },
+    {
+      "label": "Knowledge packs guide",
+      "path": "docs/knowledge-packs.md"
+    }
+  ],
+  "metadata_files": [
+    "README.md",
+    "COPY_CONTEXT.md",
+    "MANIFEST.md",
+    "manifest.json",
+    "STATUS.md",
+    "CHANGELOG.md",
+    "CITATION.cff",
+    "LICENSE.md"
+  ],
   "corpus": {
     "generated_at": "2026-06-28T22:19:54+00:00",
     "source_directory_policy": "Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.",
