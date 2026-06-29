@@ -12,6 +12,7 @@
 ![Compiled packs](https://img.shields.io/badge/compiled_packs-3-blueviolet)
 ![Omnibus](https://img.shields.io/badge/omnibus-1-purple)
 ![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039241.svg)](https://doi.org/10.5281/zenodo.21039241)
 
 A Markdown-native knowledge canon by Sam “stunspot” Walker / Collaborative Dynamics.
 
