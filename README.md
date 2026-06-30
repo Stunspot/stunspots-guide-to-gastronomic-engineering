@@ -11,7 +11,7 @@
 ![Source reports](https://img.shields.io/badge/source_reports-10-blue)
 ![Compiled packs](https://img.shields.io/badge/compiled_packs-3-blueviolet)
 ![Omnibus](https://img.shields.io/badge/omnibus-1-purple)
-![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC_BY--NC--SA_4.0-darkgrey)
+![License: CC BY 4.0](https://img.shields.io/badge/license-CC_BY_4.0-darkgrey)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21039241.svg)](https://doi.org/10.5281/zenodo.21039241)
 
 A Markdown-native knowledge canon by Sam “stunspot” Walker / Collaborative Dynamics.
@@ -142,7 +142,7 @@ manifest.json                     machine-readable source-to-output manifest
 STATUS.md                         release maturity and corpus status
 CHANGELOG.md                      release history
 CITATION.cff                      citation metadata
-LICENSE.md                        CC BY-NC-SA 4.0 license notice
+LICENSE.md                        Creative Commons Attribution 4.0 license notice
 
 docs/                             navigation and usage guidance only
   index.md                        docs landing page
@@ -162,7 +162,7 @@ knowledge-packs/omnibus/          whole-corpus bundle
 
 Version: **1.0**  
 Released: **2026-06-28**  
-License: **CC BY-NC-SA 4.0**
+License: **Creative Commons Attribution 4.0 International**
 
 Citation metadata lives in [`CITATION.cff`](./CITATION.cff). No `zenodo.json` file is included in this release; do not cite a DOI unless one is added later.
 
