@@ -164,7 +164,7 @@ Version: **1.0**
 Released: **2026-06-28**  
 License: **Creative Commons Attribution 4.0 International**
 
-Citation metadata lives in [`CITATION.cff`](./CITATION.cff). No `zenodo.json` file is included in this release; do not cite a DOI unless one is added later.
+Citation metadata lives in [`CITATION.cff`](./CITATION.cff), including DOI `10.5281/zenodo.21039241`.
 
 GitHub: https://github.com/Stunspot/stunspots-guide-to-gastronomic-engineering  
 Pages URL, after GitHub Pages is enabled: https://stunspot.github.io/stunspots-guide-to-gastronomic-engineering/
