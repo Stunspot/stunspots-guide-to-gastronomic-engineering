@@ -4,8 +4,6 @@ Generated: 2026-06-28T22:19:54+00:00
 Release version: 1.0  
 Release date: 2026-06-28
 
-Source directory: Local build source directory omitted from public release. Source filenames and generated repo paths are preserved below.
-
 ## Citation and Archive
 
 **DOI:** https://doi.org/10.5281/zenodo.21039241  
@@ -19,17 +17,8 @@ Source directory: Local build source directory omitted from public release. Sour
 - Repository: https://github.com/Stunspot/stunspots-guide-to-gastronomic-engineering
 - Pages URL: https://stunspot.github.io/stunspots-guide-to-gastronomic-engineering/
 - Author: Sam “stunspot” Walker / Collaborative Dynamics
-- License notice: CC BY-NC-SA 4.0
+- License notice: Creative Commons Attribution 4.0 International
 - Citation metadata: `CITATION.cff`
-- Zenodo metadata: not included in this release
-
-## Public Positioning
-
-This repository is a Markdown-native, model-facing knowledge canon for deterministic food physics, closed-loop culinary formulation, experimental protocols, and dietary constraint engineering.
-
-It is intended primarily for AI/RAG ingestion, long-context workspaces, project knowledge, retrieval corpora, and agent doctrine. Human readers can use the corpus as a field manual, but the public copy prioritizes source traceability, stable terminology, report routing, and model instructions over consumer-product polish.
-
-This corpus supports culinary formulation reasoning. It is not medical, nutrition, allergen-safety, regulatory, or food-safety advice.
 
 ## Directory Policy
 
@@ -46,43 +35,8 @@ This corpus supports culinary formulation reasoning. It is not medical, nutritio
 - Omnibus files: 1
 - Unclassified files: 0
 
-## Public Documentation
+## Source Authority Notes
 
-- `README.md` — repository landing page and release orientation.
-- `docs/index.md` — docs landing page.
-- `docs/canon-map.md` — report sequence and corpus map.
-- `docs/how-to-use-this-canon.md` — human and AI/RAG usage guide.
-- `docs/knowledge-packs.md` — upload-format selection guide.
-
-## Metadata and Release Files
-
-- `COPY_CONTEXT.md` — editorial handoff packet for public-copy replacement.
-- `MANIFEST.md` — human-readable source-to-output manifest.
-- `manifest.json` — machine-readable source-to-output manifest.
-- `STATUS.md` — release maturity and corpus status.
-- `CHANGELOG.md` — release history.
-- `CITATION.cff` — citation metadata.
-- `LICENSE.md` — repository license notice.
-
-## Source Reports
-
-- `A` — `A. Strategic Formulation Modules in Food Physics.md` → `knowledge-packs/by-report/a-strategic-formulation-modules-in-food-physics.md`
-- `B` — `B. A Closed-Loop Architecture for Culinary Formulation.md` → `knowledge-packs/by-report/b-a-closed-loop-architecture-for-culinary-formulation.md`
-- `C` — `C. Experimental Protocols and the Closed-Loop Architecture.md` → `knowledge-packs/by-report/c-experimental-protocols-and-the-closed-loop-architecture.md`
-- `D` — `D. Low-Carb and Glycemic Control.md` → `knowledge-packs/by-report/d-low-carb-and-glycemic-control.md`
-- `E` — `E. High-Protein Systems Constraint Layer.md` → `knowledge-packs/by-report/e-high-protein-systems-constraint-layer.md`
-- `F` — `F. Caloric Density Control and Energy-Diluted Matrix Engineering.md` → `knowledge-packs/by-report/f-caloric-density-control-and-energy-diluted-matrix-engineering.md`
-- `G` — `G. Whole-Food and Processing-Constrained Formulation - A Physics-First Constraint Layer.md` → `knowledge-packs/by-report/g-whole-food-and-processing-constrained-formulation.md`
-- `H` — `H. Plant-Based Systems and Animal-Function Displacement.md` → `knowledge-packs/by-report/h-plant-based-systems-and-animal-function-displacement.md`
-- `I` — `I. Allergen-Free Substitution Systems and Physics-First Constraint Architecture.md` → `knowledge-packs/by-report/i-allergen-free-substitution-systems-and-physics-first-constraint-architecture.md`
-- `J` — `J. Digestive and Microbiome Modulation Systems.md` → `knowledge-packs/by-report/j-digestive-and-microbiome-modulation-systems.md`
-
-## Compiled Packs
-
-- `[KNOWLEDGE] - Gastronomic Engineering - Vol. 1 A-C - Fundamentals and Worldview.md` → `knowledge-packs/compiled-packs/knowledge-gastronomic-engineering-vol-1-a-c-fundamentals-and-worldview.md`
-- `[KNOWLEDGE] - Gastronomic Engineering - Vol. 2 D-F Constraint Layers for Specialty Dietary Needs 1 - Carbs, Proteins, and Caloric Density.md` → `knowledge-packs/compiled-packs/knowledge-gastronomic-engineering-vol-2-d-f-constraint-layers-for-specialty-dietary-needs-1-carbs-proteins-and-caloric-density.md`
-- `[KNOWLEDGE] - Gastronomic Engineering - Vol. 3 G-J Constraint Layers for Specialty Dietary Needs 2 - Whole-Foods, Plant-Based, Allergen-Free, and Microbiomes.md` → `knowledge-packs/compiled-packs/knowledge-gastronomic-engineering-vol-3-g-j-constraint-layers-for-specialty-dietary-needs-2-whole-foods-plant-based-allergen-free.md`
-
-## Omnibus
-
-- `[KNOWLEDGE] - Gastronomic Engineering - Omnibus.md` → `knowledge-packs/omnibus/knowledge-gastronomic-engineering-omnibus.md`
+- Source reports are the canonical individual units.
+- Compiled packs and omnibus files are convenience formats.
+- `manifest.json` preserves machine-readable release metadata.
