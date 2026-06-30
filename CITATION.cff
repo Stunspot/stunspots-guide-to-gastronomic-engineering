@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Stunspot's Guide to Gastronomic Engineering"
+title: "Stunspot's Guide"
 message: "If you use this canon, please cite it using this metadata."
 type: dataset
 authors:
@@ -9,18 +9,8 @@ authors:
     affiliation: "Collaborative Dynamics"
 version: "1.0"
 date-released: "2026-06-28"
-license: "CC-BY-NC-SA-4.0"
+license: "CC-BY-4.0"
 doi: "10.5281/zenodo.21039241"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21039241"
-url: "https://stunspot.github.io/stunspots-guide-to-gastronomic-engineering/"
-repository-code: "https://github.com/Stunspot/stunspots-guide-to-gastronomic-engineering"
-abstract: "A Markdown-native, model-facing knowledge canon for gastronomic engineering: deterministic food physics, closed-loop culinary formulation, experimental protocols, and dietary constraint layers for AI/RAG workflows."
-keywords:
-  - "gastronomic-engineering"
-  - "food-physics"
-  - "culinary-formulation"
-  - "dietary-constraint-engineering"
-  - "knowledge-systems"
-  - "rag"
