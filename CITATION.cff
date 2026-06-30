@@ -16,8 +16,12 @@ identifiers:
     value: "10.5281/zenodo.21039241"
 url: "https://stunspot.github.io/stunspots-guide-to-gastronomic-engineering/"
 repository-code: "https://github.com/Stunspot/stunspots-guide-to-gastronomic-engineering"
-abstract: "A model-facing gastronomic engineering canon for AI/RAG knowledge workflows."
+abstract: "A model-facing gastronomic engineering canon for AI/RAG knowledge workflows, covering deterministic food physics, closed-loop culinary formulation, experimental protocols, dietary constraint engineering, low-carb and glycemic-control systems, high-protein systems, caloric-density control, whole-food processing constraints, plant-based function displacement, allergen-free substitution, and digestive/microbiome modulation."
 keywords:
   - "gastronomic-engineering"
+  - "food-physics"
+  - "culinary-formulation"
+  - "dietary-constraints"
+  - "recipe-engineering"
   - "knowledge-systems"
   - "rag"
