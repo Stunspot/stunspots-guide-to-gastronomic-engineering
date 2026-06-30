@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Stunspot's Guide"
+title: "Stunspot's Guide to Gastronomic Engineering"
 message: "If you use this canon, please cite it using this metadata."
 type: dataset
 authors:
@@ -14,3 +14,10 @@ doi: "10.5281/zenodo.21039241"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.21039241"
+url: "https://stunspot.github.io/stunspots-guide-to-gastronomic-engineering/"
+repository-code: "https://github.com/Stunspot/stunspots-guide-to-gastronomic-engineering"
+abstract: "A model-facing gastronomic engineering canon for AI/RAG knowledge workflows."
+keywords:
+  - "gastronomic-engineering"
+  - "knowledge-systems"
+  - "rag"
